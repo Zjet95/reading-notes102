@@ -19,8 +19,8 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 
 <u>Reminders to Keep a Growth Mindset Attitude :</u>
 
-* Accept Mistakes
+🥇 Accept Mistakes
 
-* Be Patient 
+🥈 Be Patient 
 
-* Celebrate Growth
+🥉 Celebrate Growth
