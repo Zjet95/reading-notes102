@@ -6,9 +6,9 @@
 What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in the Upstate Area of South Carolina with my Wife & 2 fur babies, Ace & Jack. I am a prior US Army Veteran where I served at Joint-Base Lewis McChord from 2013-2017.  In my most current professional position I was an IT Technical Project Manager for special in house related infrastructure projects with the BMW Group where I worked for 6 years. I look forward to nothing but positive vibes and hard work while building/sharpening our skillsets together. It wont click for everyone (Including myself) the first go round but stick with it and I guarantee looking back you'll be ecstatic with your progress! Lets Grind!
 
 ## Contact Info
-**Email:** Zachjeter95@icloud.com
+:email: **Email:** Zachjeter95@icloud.com 
 
-**Linkedin:** [Linkedin User Profile](https://www.linkedin.com/in/zachariahjeter/)
+:globe_with_meridians: **Linkedin:** [Linkedin User Profile](https://www.linkedin.com/in/zachariahjeter/)
 
 ## Link to Zachariah's GITHUB Portfolio
 
