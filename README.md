@@ -16,8 +16,9 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 
 ## Link to Zachariah's Class references
 
-[Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
-[The Coders Computer Takeways/Notes](https://github.com/Zjet95/reading-notes102/blob/main/TheCodersPC.md)
+* [Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
+
+* [The Coders Computer Takeways/Notes](https://github.com/Zjet95/reading-notes102/blob/main/TheCodersPC.md)
 ## Growth Mindset Personal Definition
 *Growth Mindset* in personal terms is the perception that you cannot know / learn the entirety of potentially anything and gain an in depth insight in one sitting. However when you encounter growing pains and work through them efficiently without giving up on the subject you are attempting to ingest is what is described as a *Growth Mindset*.
 
