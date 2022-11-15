@@ -114,3 +114,5 @@ GitHub supports emoji! Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-
 * 🦸‍♂️: https://guides.github.com/features/mastering-markdown/
 
 *Contact Info* 📬 : **Zachjeter95@icloud.com**
+
+## Things I want to know more about.
