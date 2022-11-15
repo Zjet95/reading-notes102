@@ -14,6 +14,10 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 
 [Github Portfolio](https://zjet95.github.io/reading-notes102/)
 
+## Link to Zachariah's About Me Page.
+
+[About Me Page](https://zjet95.github.io/ZachsProfilePage/)
+
 ## Link to Zachariah's Class references
 
 * [Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
