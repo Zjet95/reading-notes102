@@ -14,6 +14,10 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 
 [Github Portfolio](https://zjet95.github.io/reading-notes102/)
 
+## Link to Zachariah's Markdown reference
+
+[Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
+
 ## Growth Mindset Personal Definition
 *Growth Mindset* in personal terms is the perception that you cannot know / learn the entirety of potentially anything and gain an in depth insight in one sitting. However when you encounter growing pains and work through them efficiently without giving up on the subject you are attempting to ingest is what is described as a *Growth Mindset*.
 
