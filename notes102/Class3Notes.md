@@ -4,9 +4,7 @@ During Class 3 we were able to cover multiple methods of version control, Versio
 
 ## **1. Version Control**
 
-> Version control, also known as source control, is the process of  tracking and managing changes to files over time. VCS — version control systems — are software tools designed to help teams work together. You can use version control for versioning code, binary files, and digital assets.  
-
-Version control includes version control software, version control systems, or version control tools. It is a component of software configuration management, sometimes referred to as VCS programming.
+> Version control, also known as source control, is the process of  tracking and managing changes to files over time. VCS — version control systems — are software tools designed to help teams work together. You can use version control for versioning code, binary files, and digital assets, Version control includes version control software, version control systems, or version control tools. It is a component of software configuration management, sometimes referred to as VCS programming.
 
 ## **2. Centralized Version Control (CVCS)**
 
