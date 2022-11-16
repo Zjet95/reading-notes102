@@ -18,7 +18,33 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 
 [About Me Page](https://zjet95.github.io/ZachsProfilePage/)
 
-## Link to Zachariah's Class references
+## Table Of Contents 
+
+### Code 102 Reading Notes
+*
+*
+*
+*
+*
+*
+*
+### Code 201 Reading Notes
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 
 * [Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
 
