@@ -21,29 +21,31 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 ## Table Of Contents 
 
 ### Code 102 Reading Notes
-*
-*
-*
-*
-*
-*
-*
+* [Class 1 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class1Notes.md)
+* [Class 2 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class2Notes.md)
+* [Class 3 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class3Notes.md)
+* [Class 4 Notes]()
+* [Class 5 Notes]()
+* [Class 6 Notes]()
+* [Class 7 Notes]()
+
 ### Code 201 Reading Notes
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [Class 1 Notes]()
+* [Class 2 Notes]()
+* [Class 3 Notes]()
+* [Class 4 Notes]()
+* [Class 5 Notes]()
+* [Class 6 Notes]()
+* [Class 7 Notes]()
+* [Class 8 Notes]()
+* [Class 9 Notes]()
+* [Class 10 Notes]()
+* [Class 11 Notes]()
+* [Class 12 Notes]()
+* [Class 13 Notes]()
+* [Class 14 Notes]()
+* [Class 15 Notes]()
+
 
 
 * [Markdown Reference Page](https://github.com/Zjet95/reading-notes102/blob/main/page2.md)
