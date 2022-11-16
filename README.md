@@ -21,7 +21,7 @@ What's up everyone! I am Zachariah (Zach) Jeter. From and Currently living in th
 ## Table Of Contents 
 
 ### Code 102 Reading Notes
-* [Class 1 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class1Notes.md)
+* [Class 1 Notes](https://github.com/Zjet95/reading-notes102/blob/main/reading-notes102/Class1Notes.md)
 * [Class 2 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class2Notes.md)
 * [Class 3 Notes](/home/adduser/projects/courses/code-102/ZachsProfilePage/reading-notes102/Class3Notes.md)
 * [Class 4 Notes]()
