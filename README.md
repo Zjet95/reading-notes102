@@ -1,4 +1,4 @@
-# Reading-Notes 102
+# Reading-Notes
 
 ![Profile Picture](https://media-exp1.licdn.com/dms/image/C5603AQGGLo5cM7Z4Gw/profile-displayphoto-shrink_200_200/0/1631584917792?e=1674086400&v=beta&t=5LmaMnUD9vJFB4sLg6fXS1AgSSO2W8fIrlH2bOkCdBg)
 
