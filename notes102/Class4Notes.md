@@ -45,3 +45,9 @@
 * [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 * [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 * [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+
+### Things I want to know more about
+
+* Additonal HTML Semantic Tags
+* In depth Wireframing concepts
+* Practices to writing clean code.
