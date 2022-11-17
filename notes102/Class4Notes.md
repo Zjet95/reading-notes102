@@ -8,7 +8,7 @@
 
 > HTML is also known as **Hyper-text markup language**. Every webpage you see utilizes HTML to structure the webpage similar to a newspaper. HTML docs include headers, paragraphs and images just as a newspaper would but these are added using what is called HTML elements and tags. However HTML does not make your page look pretty, its just the bare bones layout before you begin to add styling.
 
-Example of HTML Skeleton AKA HTML Boilerplate :
+### Example of HTML Skeleton AKA HTML Boilerplate
 
 `<!DOCTYPE html>
 <html lang="en">
@@ -23,14 +23,25 @@ Example of HTML Skeleton AKA HTML Boilerplate :
 
 <body id="home">
 
- <h1>HTML5 boilerplate</h1>
-
 </body>
 </html>`
 
 ## Semantics
 
-> In software development semantics are used to work around explaining a piece of code, they provide meaning to an HTML page rather than just presentation and makes your HTML more comprehensible by better defining the different sections and layout of webpages.
+> In software development semantics are used to work around explaining a piece of code and define meaning to your code, they provide meaning to an HTML page rather than just presentation and makes your HTML more comprehensible by better defining the different sections and layout of webpages.
 
-Examples of HTML Semantics tags and what exactly they do:
-*
+### Examples of HTML Semantics Elements and what exactly they do
+
+* [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+* [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
+* [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+* [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
+* [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+* [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+* [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
+* [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+* [mark](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
+* [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+* [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+* [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+* [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
