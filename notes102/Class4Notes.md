@@ -1,6 +1,6 @@
 # Class 4 Notes
 
-## Wireframe and Design
+## What is Wireframing and Design?
 
 > A wireframe is a simplistic representation of a website or products layout and design, Wireframes are incredibly useful at the beginning of any design process this coupled with design thinking allows you to come parallel with what exactly it is your client is looking for in thier product, it allows you to map out the functionality and have a visual representation to show your clients before the actual engineering of the website begins and allows you to communicate easy in regards to strucutre, space allocation and schematics. **Always wireframe before you build!!**
 
