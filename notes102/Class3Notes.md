@@ -16,7 +16,7 @@ During Class 3 we were able to cover multiple methods of version control, Versio
 
 ## **4. What is Git?**
 
-> Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. Git is a Distributed Version Control System.
+> Git is a distributed version-control system for tracking changes in computer files and coordinating work on those files among multiple people. Git is a Distributed Version Control System.
 
 ## Things I want to know more about
 
